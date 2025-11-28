@@ -40,4 +40,4 @@ The models were compared based on accuracy and F1 scores. The Feature Importance
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/water-quality-prediction.git](https://github.com/YOUR_USERNAME/water-quality-prediction.git)
+   git clone https://github.com/lalith987/Water-Quality-Index.git
